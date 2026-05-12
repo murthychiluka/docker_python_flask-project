@@ -1,3 +1,5 @@
+# Additional server configs : /etc/nginx/conf.d/app.py
+
 server {
     listen 80;
     server_name 98.81.160.29;
