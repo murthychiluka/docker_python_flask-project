@@ -1,4 +1,4 @@
-# Additional server configs : /etc/nginx/conf.d/app.py
+# Additional server configs : /etc/nginx/conf.d/myapp.conf
 
 server {
     listen 80;
